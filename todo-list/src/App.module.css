@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    grid-template-rows: 12.5rem 1fr;
+}
+
+.header {
+    background: var(--gray-700);
+    height: 12.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-logo {
+    background: var(--gray-700);
+}
+
